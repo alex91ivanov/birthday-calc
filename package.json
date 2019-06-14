@@ -1,0 +1,23 @@
+{
+  "name": "birthday-calc",
+  "version": "1.0.0",
+  "description": "calculates the difference between two points in gregorian calendar time",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js 2020-12-20T10:10:10.100Z/2021-11-23T12:34:56.789Z"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex91ivanov/birthday-calc.git"
+  },
+  "keywords": [
+    "diff",
+    "dates"
+  ],
+  "author": "alex91ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex91ivanov/birthday-calc/issues"
+  },
+  "homepage": "https://github.com/alex91ivanov/birthday-calc#readme"
+}
